@@ -1,0 +1,39 @@
+{
+  "name": "testy",
+  "symbol": "TSTY",
+  "description": "this is test meta data",
+  "image": "https://raw.githubusercontent.com/chalkychalk42/Metadata/refs/heads/main/testy.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Transfer Fee",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1 Billion"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Testing"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/chalkychalk42/Metadata/refs/heads/main/testy.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "43tdyZN5Nqo72s6gSJ4hW33foEd1aMr2xsctSdMobL94",
+        "share": 100
+      }
+    ]
+  }
+}
