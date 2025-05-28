@@ -1,8 +1,8 @@
 {
-  "name": "testy",
-  "symbol": "TSTY",
+  "name": "RAW",
+  "symbol": "RAW",
   "description": "this is test meta data",
-  "image": "https://raw.githubusercontent.com/chalkychalk42/Metadata/refs/heads/main/testy.png",
+  "image": "https://raw.githubusercontent.com/chalkychalk42/Metadata/refs/heads/main/RAW.png",
   "attributes": [
     {
       "trait_type": "Type",
@@ -24,7 +24,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/chalkychalk42/Metadata/refs/heads/main/testy.png",
+        "uri": "https://raw.githubusercontent.com/chalkychalk42/Metadata/refs/heads/main/RAW.png",
         "type": "image/png"
       }
     ],
